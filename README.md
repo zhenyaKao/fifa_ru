@@ -5,10 +5,8 @@
   - SASS <br>
   
 ✔ Vue 2.6
-  - ESLint6
   - Vuex
   - Router
-  -   
 ✔ Axios
 
 ### Back-End:
